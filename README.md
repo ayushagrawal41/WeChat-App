@@ -5,5 +5,6 @@ A real-time chat application developed using JavaScript, Node, Express & Socket.
 # Installation
 
 npm install
+
 npm run dev
 
